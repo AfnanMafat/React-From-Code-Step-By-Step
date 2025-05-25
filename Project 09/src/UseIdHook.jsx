@@ -3,8 +3,8 @@ import React from 'react'
 export default function UseIdHook() {
 
     const name = React.useId()
-    const age = React.useId()
-    const password = React.useId()
+    // const age = React.useId()
+    // const password = React.useId()
 
     // or 
     const user = React.useId()
