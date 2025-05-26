@@ -1,0 +1,19 @@
+{
+    "users":[
+        {
+             "name":"Afnan",
+             "age":20,
+             "salary":250000
+        },
+        {
+             "name":"Hasnain",
+             "age":22,
+             "salary":270000
+        },
+        {
+             "name":"Alfaiz",
+             "age":19,
+             "salary":281000
+        }
+    ]
+}
